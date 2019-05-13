@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20140826-r5761">
+  <project autorefresh="false" build="classes/" main="classes.Projectile2017.class" manifest="" root="" work="">
+    <createjar file="Projectile2017.jar" flags="5"/>
+    <source>
+      <file active="true" name="src/ProjectileView.java" package="" timestamp="18-Jun-2017 15:52:36">
+        <select from="12768" to="12768"/>
+        <scroll column="4320" row="0"/>
+      </file>
+      <file name="src/Simulator.java" package="" timestamp="13-Jun-2017 09:08:42">
+        <select from="12768" to="12768"/>
+        <scroll column="4320" row="0"/>
+      </file>
+      <file name="src/Target.java" package="" timestamp="08-Jun-2017 10:22:06">
+        <select from="12768" to="12768"/>
+        <scroll column="4320" row="0"/>
+      </file>
+      <file name="src/ResetController.java" package="" timestamp="15-Jun-2017 08:44:20">
+        <select from="12768" to="12768"/>
+        <scroll column="4320" row="0"/>
+      </file>
+      <file name="src/ProjectileModel.java" package="" timestamp="14-Jun-2017 18:52:26">
+        <select from="12768" to="12768"/>
+        <scroll column="4320" row="0"/>
+      </file>
+      <file name="src/Projectile2017.java" package="" timestamp="13-Jun-2017 09:46:40">
+        <select from="12768" to="12768"/>
+        <scroll column="4320" row="0"/>
+      </file>
+      <file name="src/MenuController.java" package="" timestamp="15-Jun-2017 08:43:32">
+        <select from="12768" to="12768"/>
+        <scroll column="4320" row="0"/>
+      </file>
+      <file name="src/ComboBoxController.java" package="" timestamp="15-Jun-2017 08:43:32">
+        <select from="12768" to="12768"/>
+        <scroll column="4320" row="0"/>
+      </file>
+      <file name="src/Cannon.java" package="" timestamp="26-May-2017 13:11:40">
+        <select from="12768" to="12768"/>
+        <scroll column="4320" row="0"/>
+      </file>
+      <file name="src/Calculator.java" package="" timestamp="14-Jun-2017 22:04:28">
+        <select from="12768" to="12768"/>
+        <scroll column="4320" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
